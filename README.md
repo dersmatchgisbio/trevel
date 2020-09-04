@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+**Летний хайкинг: 5 пешеходных троп для активных выходных**
 
-You can use the [editor on GitHub](https://github.com/dersmatchgisbio/trevel/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+От зеленых ландшафтов Багамских островов до красной пустыни Турции, vogue.ua собрал самые живописные и увлекательные пешеходные тропы, которые можно изучить уже этим летом.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Вершина Морн Блан на Сейшельских островах. Каппадокия, Турция**
 
-### Markdown
+Каппадокия находится в центральной части Турции и является полупустынным регионом страны. Среди туристов Каппадокия известна благодаря уникальным ландшафтам и обилию исторических достопримечательностей. Хайкинг здесь легко адаптируется под возможности туристов, так как гиды охотно предлагают тропы разного уровня сложности. Одни из самых популярных маршрутов проходят через долины Голубей и Любви, Красную долину и долину Роз, а также маршрут по долине Земли, где находятся скальные церкви.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Скальный район Stanage Edge в Великобритания**
 
-```markdown
-Syntax highlighted code block
+Один из самых красивых пешеходных маршрутов Англии, протяженностью десять с половиной километров, начинается и заканчивается в живописной деревне Хатерсейдж. Вообще, Stanage Edge – популярное место среди британских альпинистов, и вы поймете почему, дойдя до края Stanage Edge по зеленой тропе.
 
-# Header 1
-## Header 2
-### Header 3
+**Andros - Побережье Багамских островов с пальмами.**
 
-- Bulleted
-- List
+Для полноты впечатлений на Багамских островах не нужно ограничиваться исследованием глубин. Непременно отправляйтесь в национальный парк Blue Holes National Park, где помимо голубых дыр и бегущих ручьев можно познакомиться с 20 разновидностями диких орхидей и 120 видами птиц. В джунглях парка легко потеряться, поэтому наймите гида и не забудьте удобную обувь.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Morne Blanc Trail, Сейшельские острова -  Вершина Морн Блан**
 
-[Link](url) and ![Image](src)
-```
+Реальность такова, что до пика Морн Блан, с которого открывается душещипательный вид, ведет полуторакилометровый извилистый путь, в течение которого можно встретить туман и непременно карабкаться по гористой местности сквозь чайные плантации. Говорят, оно того стоит. Ведь вид с пика открывается на весь остров и соседние районы. В дорогу лучше отправляться утром, чтобы избежать тумана и солнца.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Долина китов, Египет - Вади-аль-Хитан**
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dersmatchgisbio/trevel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Долина китов в Египте, известная как Вади-аль-Хитан по-арабски – это место, где можно отследить эволюцию кита от наземного животного до океанического млекопитающего. Долина входит в список Всемирного наследия ЮНЕСКО и является популярным местом среди туристов, жаждущих активного отдыха. Ровные ландшафты делают Долину китов доступной для начинающих хайкеров, а также сюда можно приезжать для кемпинга, каякинга, катания на лошадях и наблюдения за звездами – с пустыни они смотрятся особенно эффектно.
